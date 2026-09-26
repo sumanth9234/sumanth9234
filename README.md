@@ -138,5 +138,5 @@ Currently interested in understanding and building systems around:
 
 ## 🔗 Connect With Me
 
-* [LinkedIn](www.linkedin.com/in/voleti-sumanth)
+* [LinkedIn](https://www.linkedin.com/in/voleti-sumanth)
 * [Email](mailto:kalkisumanth@gmail.com)
